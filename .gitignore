@@ -1,0 +1,15 @@
+/code/Epoching of Experiment Data/Raw/
+/code/Epoching of Experiment Data/Epochs/
+/code/Epoching of Experiment Data/Logs/
+/code/Epoching of Experiment Data/QC_Plots/
+
+/code/Preprocess and Data Extraction of Epoched files/Output/
+/code/Preprocess and Data Extraction of Epoched files/Kinesis/*.xls*
+
+/code/Thesis Main Analysis/data/
+/code/Thesis Main Analysis/output/
+
+/code/Memory HRV-Gait Analysis/data_raw/
+/code/Memory HRV-Gait Analysis/outputs/
+
+*.asv
